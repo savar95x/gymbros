@@ -1,5 +1,5 @@
 # Gymmin'
-<img src=./imgs/zyzz.jpg/>
+<img src=./imgs/zyzz.jpg>
 A resource for all the gym bros and self-improvement freaks.<br>
 
 ### Todo
